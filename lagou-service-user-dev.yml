@@ -1,2 +1,10 @@
 config:
   test: 433
+spring:
+  datasource:
+  driver-class-name: com.mysql.jdbc.Driver
+  url: jdbc:mysql://152.136.24.197:3306/cloud?useUnicode=true&characterEncoding=utf-8&useSSL=false
+  username: yuting
+  password: 199522cytCYT@
+  
+  
