@@ -2,7 +2,7 @@ spring:
   mail:
     host: smtp.163.com
     username: 15221570989@163.com
-    password: 199522cyt
+    password: 
     port: 25
     protocol: smtp
     default-encoding: UTF-8
@@ -10,4 +10,4 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://152.136.24.197:3306/cloud?useUnicode=true&characterEncoding=utf-8&useSSL=false
     username: yuting
-    password: 199522cytCYT@
+    password: 
